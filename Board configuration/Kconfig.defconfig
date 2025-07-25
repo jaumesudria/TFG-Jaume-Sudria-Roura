@@ -1,0 +1,6 @@
+if BOARD_CPR_BOARD_V3
+
+config BT_CTLR
+	default BT
+
+endif # BOARD_CPR_BOARD_V3

@@ -1,0 +1,5 @@
+board:
+  name: cpr_board_v3
+  vendor: jaumesudria
+  socs:
+    - name: nrf52840
