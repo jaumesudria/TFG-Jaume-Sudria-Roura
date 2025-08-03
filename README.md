@@ -4,7 +4,7 @@ Aquest repositori conté el codi i fitxers relacionats amb el desenvolupament de
 
 Estructura del repositori:
 
-- TFG-JaumeSudriàRoura.pdf  //memòria del treball
+- TFG-JaumeSudriàRoura.pdf        //   memòria del treball
 
 - Zephyr project/
     - main.c
